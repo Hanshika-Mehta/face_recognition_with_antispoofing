@@ -18,5 +18,3 @@ Build a solution that includes facial recognition technology that is secure and 
 - Face detection and recognition system
 - Deployment of the project on GitHub
 
-## Video of the project 
-
